@@ -32,6 +32,6 @@
 - https://github.com/John-Rivero/Python-Projects
 
 ## C++ Projects
-![2814506_c++_coding_filetype_programming_extension_icon](https://user-images.githubusercontent.com/81208412/215147778-ce033d2f-5d03-4b0d-ba37-739d7606f39d.png)
+![7564189_c_logo_plus plus_plus_+ +_icon](https://user-images.githubusercontent.com/81208412/215148999-7d3e5f1d-397a-47dc-bf36-f02b483b2806.png)
 
 - https://github.com/John-Rivero/C-Projects
