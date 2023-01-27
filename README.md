@@ -1,7 +1,13 @@
 ## About <br>
 
 [1]: https://www.linkedin.com/in/john-rivero-233507181/
-[![291709_logo_linked in_social network_social_social media_icon](https://user-images.githubusercontent.com/81208412/215140165-c1ba8555-e0c9-4663-ac12-4fc25a59ea41.png)][1]  <br>
+[2]: https://public.tableau.com/app/profile/john.r6470
+
+[![291709_logo_linked in_social network_social_social media_icon](https://user-images.githubusercontent.com/81208412/215140165-c1ba8555-e0c9-4663-ac12-4fc25a59ea41.png)][1] <br>
+- Linkedin
+
+![7013431_file_document_finance_business_laptop_icon](https://user-images.githubusercontent.com/81208412/215141994-1d4feb36-605b-49a0-abe1-7bf20a6237ca.png)[2] <br>
+- Tableu
 
 
 - Working as AWS Cloud Engineer for Unbounded Earth
