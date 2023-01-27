@@ -21,12 +21,17 @@
 
 - [Python](https://www.coursera.org/account/accomplishments/certificate/NB4SSU8HU9JG)
 
+## Data Analyst Portfolio
+![5605576_briefcase_case_equipment_office_portfolio_icon](https://user-images.githubusercontent.com/81208412/215148500-6c137de1-9689-40ca-baf1-1771f30c785e.png)
+
+- https://github.com/John-Rivero/Data-Analyst-Portfolio
+
 ## Python Projects
 ![4375050_logo_python_icon](https://user-images.githubusercontent.com/81208412/215146569-61405768-d5ba-407c-bd40-97464c5bcda1.png)
 
--https://github.com/John-Rivero/Python-Projects
+- https://github.com/John-Rivero/Python-Projects
 
 ## C++ Projects
 ![2814506_c++_coding_filetype_programming_extension_icon](https://user-images.githubusercontent.com/81208412/215147778-ce033d2f-5d03-4b0d-ba37-739d7606f39d.png)
 
--https://github.com/John-Rivero/C-Projects
+- https://github.com/John-Rivero/C-Projects
