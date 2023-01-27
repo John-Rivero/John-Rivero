@@ -1,4 +1,4 @@
-###About <br>
+### About <br>
 
 [LinkedIn](https://www.linkedin.com/in/john-rivero-233507181/) <br>
 - Working as AWS Cloud Engineer for Unbounded Earth
