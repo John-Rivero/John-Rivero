@@ -4,4 +4,5 @@
 - Working as AWS Cloud Engineer for Unbounded Earth
 - Enrolled in Associate of Applied Science Information Technology-Programming
 
-[![291709_logo_linked in_social network_social_social media_icon](https://user-images.githubusercontent.com/81208412/215138185-1b5cea06-01f3-4f77-b84d-8eec7af00298.png)] (https://www.linkedin.com/in/john-rivero-233507181/)
+[1]: http://www.github.com/your_contact_info
+[![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)][1]
