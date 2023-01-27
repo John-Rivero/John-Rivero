@@ -6,6 +6,8 @@
 
 ## About <br>
 ![4714992_avatar_man_people_person_profile_icon](https://user-images.githubusercontent.com/81208412/215143847-ea2e99f6-5566-497f-ac8e-3b7ca6ad60e8.png)
-- Working as AWS Cloud Engineer for Unbounded Earth
+- Working as an AWS Cloud Engineer for Unbounded Earth
 - Enrolled in Associate of Applied Science Information Technology-Programming
 
+## Certifications
+![7013436_currency_business_certification_certificate_finance_icon](https://user-images.githubusercontent.com/81208412/215144850-424663ba-2316-4245-92ec-029a6f17068c.png)
