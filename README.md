@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @John-Rivero
-- 🌱 I’m currently learning Python and Cloud Computing
-- 📫 How to reach me ..
+###About <br>
 
-<!---
-John-Rivero/John-Rivero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/john-rivero-233507181/)
+-Working as AWS Cloud Engineer for Unbounded Earth
+-Enrolled in Associate of Applied Science Information Technology-Programming
+
