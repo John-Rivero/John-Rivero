@@ -13,3 +13,9 @@
 
 ## Certifications
 ![7013436_currency_business_certification_certificate_finance_icon](https://user-images.githubusercontent.com/81208412/215144850-424663ba-2316-4245-92ec-029a6f17068c.png)
+
+[AWS Certified Cloud Practitioner](https://www.credly.com/badges/456af42e-f9b0-4010-ae4a-129bdf6bb2a0?source=linked_in_profile)
+
+[Google IT Support Certificate](https://www.credly.com/badges/6f4ad29d-9bde-4223-816e-31cf00b3c762?source=linked_in_profile)
+
+[Python](https://www.coursera.org/account/accomplishments/certificate/NB4SSU8HU9JG)
