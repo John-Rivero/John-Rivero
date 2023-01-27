@@ -4,4 +4,4 @@
 - Working as AWS Cloud Engineer for Unbounded Earth
 - Enrolled in Associate of Applied Science Information Technology-Programming
 
-![linkedin-logo-png-2025](https://user-images.githubusercontent.com/81208412/215137426-6a2a65e7-2e0b-4caa-a5dd-b22223ac4ccb.png)
+![291709_logo_linked in_social network_social_social media_icon](https://user-images.githubusercontent.com/81208412/215138185-1b5cea06-01f3-4f77-b84d-8eec7af00298.png)
