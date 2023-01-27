@@ -1,5 +1,3 @@
-## About <br>
-
 [1]: https://www.linkedin.com/in/john-rivero-233507181/
 [2]: https://public.tableau.com/app/profile/john.r6470
 
@@ -8,7 +6,6 @@
 [![7013431_file_document_finance_business_laptop_icon](https://user-images.githubusercontent.com/81208412/215141994-1d4feb36-605b-49a0-abe1-7bf20a6237ca.png)][2] Public Tableu
 
 
-
+![7013431_file_document_finance_business_laptop_icon](https://user-images.githubusercontent.com/81208412/215143699-8e2ea1ab-d865-4321-82f1-54f241bb1d77.png) ## About <br>
 - Working as AWS Cloud Engineer for Unbounded Earth
 - Enrolled in Associate of Applied Science Information Technology-Programming
-
