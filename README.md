@@ -17,7 +17,9 @@
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/456af42e-f9b0-4010-ae4a-129bdf6bb2a0?source=linked_in_profile)
 
-- [Google IT Support Certificate](https://www.credly.com/badges/6f4ad29d-9bde-4223-816e-31cf00b3c762?source=linked_in_profile)
+- [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/WVYYLYC8ZHRE)
+
+- [Google IT Support Specialization](https://www.credly.com/badges/6f4ad29d-9bde-4223-816e-31cf00b3c762?source=linked_in_profile)
 
 - [Python](https://www.coursera.org/account/accomplishments/certificate/NB4SSU8HU9JG)
 
