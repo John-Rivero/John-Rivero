@@ -31,7 +31,7 @@
 ## R Projects
 ![4375063_logo_project_r_icon](https://user-images.githubusercontent.com/81208412/216561262-cadce901-7e62-4ea9-a97e-874781c4ce41.png)
 
--https://github.com/John-Rivero/R-projects
+- https://github.com/John-Rivero/R-projects
 
 ## Python Projects
 ![4375050_logo_python_icon](https://user-images.githubusercontent.com/81208412/215146569-61405768-d5ba-407c-bd40-97464c5bcda1.png)
