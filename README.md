@@ -28,17 +28,17 @@
 
 - https://github.com/John-Rivero/AWS-Cloud-Engineer-Portfolio
 
-## Python Projects
+## Python Portfolio
 ![4375050_logo_python_icon](https://user-images.githubusercontent.com/81208412/215146569-61405768-d5ba-407c-bd40-97464c5bcda1.png)
 
 - https://github.com/John-Rivero/Python-Projects
 
-## C++ Projects
+## C++ Portfolio
 ![7564189_c_logo_plus plus_plus_+ +_icon](https://user-images.githubusercontent.com/81208412/215148999-7d3e5f1d-397a-47dc-bf36-f02b483b2806.png)
 
 - https://github.com/John-Rivero/C-Projects
 
-## R Projects
+## R Portfolio
 ![4375063_logo_project_r_icon](https://user-images.githubusercontent.com/81208412/216561262-cadce901-7e62-4ea9-a97e-874781c4ce41.png)
 
 - https://github.com/John-Rivero/R-projects
