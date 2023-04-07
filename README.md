@@ -7,8 +7,8 @@
 ## About <br>
 ![4714992_avatar_man_people_person_profile_icon (2)](https://user-images.githubusercontent.com/81208412/215145136-bb9b3f7b-d78f-49e1-b9a4-2fb69213eb91.png)
 
-- Working as a Costing Analyst for LSG Sky Chefs
-- Worked as an AWS Cloud Engineer for Unbounded Earth
+- I am currently as a Costing Analyst for LSG Sky Chefs
+- Previously worked as an AWS Cloud Engineer for Unbounded Earth
 - Enrolled in Associate of Applied Science Information Technology-Programming
 - Enjoys going to the gym, training MMA, and traveling
 
