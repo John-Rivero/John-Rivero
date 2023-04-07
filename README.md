@@ -25,7 +25,7 @@
 
 ## AWS Cloud Engineer Portfolio
 
-![8546827_aws_icon](https://user-images.githubusercontent.com/81208412/230545067-63f3b26f-ba12-48c6-9a8a-493f71b1aa41.png)
+![259293_non_service_aws_specific_copy_icon](https://user-images.githubusercontent.com/81208412/230545260-ffc92bca-c769-479a-ab4d-9cfd875481ae.png)
 
 - https://github.com/John-Rivero/AWS-Cloud-Engineer-Portfolio
 
