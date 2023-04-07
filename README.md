@@ -24,7 +24,6 @@
 - [Python](https://www.coursera.org/account/accomplishments/certificate/NB4SSU8HU9JG)
 
 ## AWS Cloud Engineer Portfolio
-
 ![259293_non_service_aws_specific_copy_icon](https://user-images.githubusercontent.com/81208412/230545260-ffc92bca-c769-479a-ab4d-9cfd875481ae.png)
 
 - https://github.com/John-Rivero/AWS-Cloud-Engineer-Portfolio
