@@ -26,7 +26,7 @@
 ## AWS Certified Developer Portfolio
 ![259293_non_service_aws_specific_copy_icon](https://user-images.githubusercontent.com/81208412/230545260-ffc92bca-c769-479a-ab4d-9cfd875481ae.png)
 
-- https://github.com/John-Rivero/AWS-DevOps-Portfolio
+- https://github.com/John-Rivero/AWS-Certified-Developer-Portfolio
 
 ## Python Portfolio
 ![4375050_logo_python_icon](https://user-images.githubusercontent.com/81208412/215146569-61405768-d5ba-407c-bd40-97464c5bcda1.png)
