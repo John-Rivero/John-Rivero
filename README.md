@@ -32,7 +32,7 @@
 ## Full Stack Web Development Portfolio
 
 
-- [https://github.com/John-Rivero/AWS-Certified-Developer-Portfolio](https://github.com/John-Rivero/Full-Stack-Web-Development-Portfolio)
+- https://github.com/John-Rivero/Full-Stack-Web-Development-Portfolio
 
 
 ## Python Portfolio
