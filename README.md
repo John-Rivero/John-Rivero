@@ -28,6 +28,13 @@
 
 - https://github.com/John-Rivero/AWS-Certified-Developer-Portfolio
 
+
+## Full Stack Web Development Portfolio
+
+
+- [https://github.com/John-Rivero/AWS-Certified-Developer-Portfolio](https://github.com/John-Rivero/Full-Stack-Web-Development-Portfolio)
+
+
 ## Python Portfolio
 ![4375050_logo_python_icon](https://user-images.githubusercontent.com/81208412/215146569-61405768-d5ba-407c-bd40-97464c5bcda1.png)
 
