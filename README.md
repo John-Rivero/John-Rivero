@@ -30,6 +30,7 @@
 
 
 ## Full Stack Web Development Portfolio
+![full-stack-developer](https://github.com/John-Rivero/John-Rivero/assets/81208412/f8430410-1779-4f1f-8df6-4809532bd604)
 
 
 - https://github.com/John-Rivero/Full-Stack-Web-Development-Portfolio
