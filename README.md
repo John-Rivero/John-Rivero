@@ -13,7 +13,7 @@
 - Enjoys going to the gym, training MMA, and traveling
 
 ## Certifications
-![7013436_currency_business_certification_certificate_finance_icon](https://user-images.githubusercontent.com/81208412/215144850-424663ba-2316-4245-92ec-029a6f17068c.png)
+![icons8-certificate-64](https://github.com/John-Rivero/John-Rivero/assets/81208412/05c9407b-e98a-4cb8-a2fc-1304629dbb76)
 
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/456af42e-f9b0-4010-ae4a-129bdf6bb2a0?source=linked_in_profile)
 
