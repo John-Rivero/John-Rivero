@@ -23,8 +23,9 @@
 
 - [Python](https://www.coursera.org/account/accomplishments/certificate/NB4SSU8HU9JG)
 
+
 ## AWS Certified Developer Portfolio
-![259293_non_service_aws_specific_copy_icon](https://user-images.githubusercontent.com/81208412/230545260-ffc92bca-c769-479a-ab4d-9cfd875481ae.png)
+![icons8-aws-64](https://github.com/John-Rivero/John-Rivero/assets/81208412/3233545d-fb27-485f-ad64-dbc2b2323a2c)
 
 - https://github.com/John-Rivero/AWS-Certified-Developer-Portfolio
 
@@ -32,13 +33,11 @@
 ## Full Stack Web Development Portfolio
 ![icons8-full-stack-64](https://github.com/John-Rivero/John-Rivero/assets/81208412/a478c8ae-b3cc-4816-a045-48dbafc9dd43)
 
-
-
 - https://github.com/John-Rivero/Full-Stack-Web-Development-Portfolio
 
 
 ## Python Portfolio
-![4375050_logo_python_icon](https://user-images.githubusercontent.com/81208412/215146569-61405768-d5ba-407c-bd40-97464c5bcda1.png)
+![icons8-python-64](https://github.com/John-Rivero/John-Rivero/assets/81208412/474e8e1d-21e3-4087-b2a1-c1f1577b5956)
 
 - https://github.com/John-Rivero/Python-Projects
 
